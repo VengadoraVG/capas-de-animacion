@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 6677b03b1535a6a4eb81011f38c65259
+timeCreated: 1523681161
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 00_L
+    100002: 00_R
+    100004: 01_L
+    100006: 01_R
+    100008: 02_L
+    100010: 02_L_end
+    100012: 02_R
+    100014: 02_R_end
+    100016: 10_L
+    100018: 10_R
+    100020: 11_L
+    100022: 11_R
+    100024: 12_L
+    100026: 12_L_end
+    100028: 12_R
+    100030: 12_R_end
+    100032: 20_L
+    100034: 20_R
+    100036: 21_L
+    100038: 21_R
+    100040: 22_L
+    100042: 22_L_end
+    100044: 22_R
+    100046: 22_R_end
+    100048: Armature
+    100050: Cylinder
+    100052: ik
+    100054: ik0_L
+    100056: ik0_L_end
+    100058: ik0_R
+    100060: ik0_R_end
+    100062: ik1_L
+    100064: ik1_L_end
+    100066: ik1_R
+    100068: ik1_R_end
+    100070: ik2_L
+    100072: ik2_L_end
+    100074: ik2_R
+    100076: ik2_R_end
+    100078: ik_end
+    100080: main0
+    100082: main1
+    100084: main2
+    100086: main3
+    100088: main4
+    100090: main5
+    100092: main6
+    100094: main7
+    100096: main8
+    100098: //RootNode
+    400000: 00_L
+    400002: 00_R
+    400004: 01_L
+    400006: 01_R
+    400008: 02_L
+    400010: 02_L_end
+    400012: 02_R
+    400014: 02_R_end
+    400016: 10_L
+    400018: 10_R
+    400020: 11_L
+    400022: 11_R
+    400024: 12_L
+    400026: 12_L_end
+    400028: 12_R
+    400030: 12_R_end
+    400032: 20_L
+    400034: 20_R
+    400036: 21_L
+    400038: 21_R
+    400040: 22_L
+    400042: 22_L_end
+    400044: 22_R
+    400046: 22_R_end
+    400048: Armature
+    400050: Cylinder
+    400052: ik
+    400054: ik0_L
+    400056: ik0_L_end
+    400058: ik0_R
+    400060: ik0_R_end
+    400062: ik1_L
+    400064: ik1_L_end
+    400066: ik1_R
+    400068: ik1_R_end
+    400070: ik2_L
+    400072: ik2_L_end
+    400074: ik2_R
+    400076: ik2_R_end
+    400078: ik_end
+    400080: main0
+    400082: main1
+    400084: main2
+    400086: main3
+    400088: main4
+    400090: main5
+    400092: main6
+    400094: main7
+    400096: main8
+    400098: //RootNode
+    2100000: No Name
+    4300000: Cylinder
+    7400000: Armature|dance
+    7400002: Armature|down
+    7400004: Armature|normal
+    7400006: Armature|up
+    9500000: //RootNode
+    13700000: Cylinder
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
